@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: Aliance;
+  src: url("Alliance-PlattExtraBold.otf");
+}
+h1 {
+  padding: 40px;
+  text-align: center;
+  font-family: "Aliance";
+  color: #24292f;
+  /* font-size: 4vh; */
+}
+.center-wrapper {
+  display: grid;
+  place-content: center;
+}
+img {
+  border-radius: 10px;
+}
+
+
+p {
+  text-align: center;
+  margin: 20px;
+  font-family: "Aliance";
+}
